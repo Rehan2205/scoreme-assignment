@@ -88,10 +88,7 @@ python main.py
 
 ---
 
-## 📬 Contact
 
-For any queries or collaboration:  
 **Name:** Rehan Raza  
-**Email:** *[razarehan1999@gmail.com]*  
-**College:** NIT Allahabad  
-**Hackathon Registration ID:** ScoreMe_2022CA079
+**Email:** *razarehan1999@gmail.com*  
+**College:** Motilal Nehru National Institute of Technology Allahabad
