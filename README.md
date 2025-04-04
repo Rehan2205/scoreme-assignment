@@ -92,6 +92,6 @@ python main.py
 
 For any queries or collaboration:  
 **Name:** Rehan Raza  
-**Email:** *[your_email@example.com]*  
+**Email:** *[razarehan1999@gmail.com]*  
 **College:** NIT Allahabad  
 **Hackathon Registration ID:** ScoreMe_2022CA079
